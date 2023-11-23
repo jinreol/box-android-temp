@@ -1,0 +1,4 @@
+
+아무것도 기억이 안 나는구나 
+
+LiveData, Retrofit, mvvm, 하나씩 해봐야겠다. 

@@ -1,0 +1,19 @@
+
+Compose 수정자.
+https://developer.android.com/jetpack/compose/modifiers
+
+
+android / ios 예제 굿굿
+https://github.com/sameersyd/Wiggles-iOS
+
+
+https://kotlinlang.org/docs/coroutines-and-channels.html#before-you-start
+github token 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
+
+
+안드로이드 retrofit2 사용법 
+https://taewooblog.tistory.com/entry/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-retrofit-2-%EC%82%AC%EC%9A%A9%EB%B2%95-%EC%98%88%EC%A0%9C-%EB%A0%88%ED%8A%B8%EB%A1%9C%ED%95%8F-2-Java
+
+retrofit부터 다시 공부하자. 아무것도 기억이 안나네.
+
+https://jsonplaceholder.typicode.com/posts
